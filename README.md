@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @cpr2mc
-- 👀 I’m interested in learning programming, problem solving, and hopefully iPhone app development.
-- 🌱 I’m currently learning Python and other programming languages through CS50x.
-- 💞️ I’m looking to collaborate on iPhone and Apple Watch app development.
+- 👋 Hi, I’m Chris Roos, @cpr2mc.
+- 👀 I’m interested in learning programming, problem solving, and team building.
+- 🌱 I’m currently learning Python and Javascript through PDX Code Guild.
+
 - 📫 How to reach me -- DM.
 
 <!---
