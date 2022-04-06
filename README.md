@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chris Roos, @cpr2mc.
 - 👀 I’m interested in learning programming, problem solving, and team building.
-- 🌱 I’m currently learning Python and Javascript through PDX Code Guild.
+- 🌱 I’m currently learning Python, HTML, CSS, JavaScript, Flask, and Django through PDX Code Guild.
 
 - 📫 How to reach me -- DM.
 
